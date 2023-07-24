@@ -3,3 +3,24 @@
     font-family: Arial;
     border: border-box;
 }
+.navbar{
+    height: 60px;
+    background: #0f1111;
+    color: #fff;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    background-image: url("images/Amzon_logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 150px;
+}
+.border{
+    border: 1.5px solid transparent;
+}
+.border:hover{
+    border: 1.5px solide white;
+}
