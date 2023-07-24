@@ -10,7 +10,7 @@
 }
 .nav-logo{
     height: 50px;
-    width: 100px;
+    width: 100%;
 }
 .logo{
     background-image: url("images/Amzon_logo.png");
@@ -22,5 +22,5 @@
     border: 1.5px solid transparent;
 }
 .border:hover{
-    border: 1.5px solide white;
+    border: 1.5px solid white;
 }
