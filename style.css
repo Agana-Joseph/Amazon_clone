@@ -1,0 +1,16 @@
+.container-fluid .navLogo img{
+    width: 50px;
+    border-radius: 20px;
+}
+
+footer{
+    background: #014222;
+}
+
+.socialMedias a{
+    text-decoration: none;
+}
+
+.socialMedias a i{
+    color: #d9d9d9;
+}
