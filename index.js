@@ -14,8 +14,8 @@ const newsdetails = document.getElementById("newsdetails");
 var newsDataArr = [];
 
 // APIs
-const API_KEY = "3a6f9e292211412198f0d2ef1a2cc5b1";
-const COUNTRY_CODE = "ng"; // Change this to "ng" for Nigeria
+const API_KEY = "ebcd1277d3f561fde9ffdf82ab7f3884";
+const COUNTRY_CODE = "IN"; // Change this to "ng" for Nigeria
 const HEADLINES_NEWS = `https://newsapi.org/v2/top-headlines?country=${COUNTRY_CODE}&apiKey=`;
 const GENERAL_NEWS = `https://newsapi.org/v2/top-headlines?country=${COUNTRY_CODE}&category=general&apiKey=`;
 const BUSINESS_NEWS = `https://newsapi.org/v2/top-headlines?country=${COUNTRY_CODE}&category=business&apiKey=`;
